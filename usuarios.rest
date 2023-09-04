@@ -1,0 +1,10 @@
+//GET http://localhost:3030/usuarios/6
+
+
+POST http://localhost:3030/usuarios/login/
+Content-Type: application/json
+
+{
+    "email": "ardila",
+    "password": "herrera"
+}
